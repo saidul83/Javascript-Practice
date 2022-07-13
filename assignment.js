@@ -80,3 +80,4 @@ Exm : var random = Math.random() * 100;
 console.log(random)
 
 // asignment.js - GitHub Link 
+//https://github.com/saidul83/Javascript-Practice
